@@ -83,6 +83,4 @@
 <script src="<?php bloginfo('template_url'); ?>/js/easing.js"></script>
 <script src="<?php bloginfo('template_url'); ?>/js/jquery.flexslider-min.js"></script>
 <script src="<?php bloginfo('template_url'); ?>/js/custom.js"></script>
-<script type="text/javascript" name="baidu-tc-cerfication" src="http://apps.bdimg.com/cloudaapi/lightapp.js#c43da99ec7ca5e0308ac82d323aaba88"></script>
-<script type="text/javascript">window.bd && bd._qdc && bd._qdc.init({app_id: 'ddba08471958e194364113d2'});</script>
 </html>
