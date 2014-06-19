@@ -25,9 +25,10 @@
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo( 'template_url' ); ?>/css/blue.css">
 	<link rel="stylesheet" href="<?php bloginfo( 'template_url' ); ?>/css/bootstrap-responsive.css">
 
-	<link rel="shortcut icon" href="<?php bloginfo( 'template_url' ); ?>/favicon.ico"></head>
+	<link rel="shortcut icon" href="<?php bloginfo( 'template_url' ); ?>/favicon.ico">
 	<script type="text/javascript" name="baidu-tc-cerfication" src="http://apps.bdimg.com/cloudaapi/lightapp.js#c43da99ec7ca5e0308ac82d323aaba88"></script>
-	<script type="text/javascript">window.bd && bd._qdc && bd._qdc.init({app_id: 'ddba08471958e194364113d2'});</script>
+	<script type="text/javascript">window.bd && bd._qdc && bd._qdc.init({app_id: 'ee21e60f19d2eb11c81f72a5'});</script>
+</head>
 <body>
     <div class="wrapper">
 
